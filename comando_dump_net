@@ -1,0 +1,2 @@
+tcpdump
+Comando para capturar tráfico de red: sudo tcpdump -i enp0s3
