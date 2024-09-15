@@ -1,0 +1,77 @@
+whereami
+whoami
+ls
+cd repogit
+ls
+cd Repo_GarciaEmiliano/
+ls
+git status
+git add .
+git status
+whoami
+pwd
+ls
+cd repogit/
+ls
+pwd
+git clone https://github.com/EmiNahuelGarcia/Repo_GarciaEmiliano.git
+ls
+cd Repo_GarciaEmiliano/
+ls
+cd ..
+cd Repo_GarciaEmiliano/
+ls
+history
+clear
+history
+history > historial.txt
+ls
+clear
+ls
+cat historial.txt 
+clear
+git status
+git add .
+git status
+git commit -m "se sube el historial de comandos"
+git config --global user.name "EmiNahuelGarcia"
+git add -m
+git commit -m
+git commit
+ls
+ls -l
+ls -la
+man ls
+pwd
+whoami
+lrclear
+cea
+clearccccdagdfageqcadsadaammmmmiiiiiii
+ls
+cd repogit/
+ls
+cd TP_AySO/
+ls
+echo "tcpdump" > comando_dump_net
+ls
+echo "Comando para capturar tráfico de red: sudo tcpdump -i enp0s3" >> comando_dump_net
+ls
+cat comando_dump_net 
+git status
+git add .
+git status
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+cat <<EOT >> README.md
+Alumno: Emiliano Garcia División: 115 Turno: mañana
+eot
+EOT
+
+ls
+cat README.md 
+sed -i '/eot/d' README.md
+ls
+cat README.md 
+git add .
+git status
+git commit -m "docs: Actualización del README.md con información del alumno"
+history -a
